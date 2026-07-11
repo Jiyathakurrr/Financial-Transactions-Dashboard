@@ -62,9 +62,16 @@ Granular view of transaction trends and merchant performance.
 
 🖼️ Screenshots
 
-| Executive Dashboard | Customer Analysis | Transaction Analysis |
- 
+ Executive Dashboard
+ <img width="1389" height="774" alt="ExecutiveDashboard" src="https://github.com/user-attachments/assets/d1ff097e-a302-4d85-9e30-b865ef0ff3f2" />
 
+ Customer Analysis
+ <img width="1394" height="776" alt="CustomerAnalysis" src="https://github.com/user-attachments/assets/e7f8550c-3282-47a3-b421-7fe7ce165957" />
+
+ Transaction Analysis 
+ <img width="1393" height="777" alt="TransactionAnalysis" src="https://github.com/user-attachments/assets/9cf4d451-441c-4eaa-a53c-960226f0d090" />
+
+ 
 ---
 
 🔗 Live Dashboard
@@ -82,7 +89,7 @@ Granular view of transaction trends and merchant performance.
 
 ---
 
-## 📁 Repository Structure
+📁 Repository Structure
 
 ```
 ├── data/                  # Raw & cleaned datasets (if applicable)
@@ -96,7 +103,8 @@ Granular view of transaction trends and merchant performance.
 🙋 Author
 
 **[Jiya Thakur]**
-📧 jiyathakurrrr@gmail.com | 🔗 [LinkedIn](#) 
+📧 jiyathakurrrr@gmail.com | 🔗 linkedin.com/in/jiya-thakur-6b69a4338
+
 
 ---
 
