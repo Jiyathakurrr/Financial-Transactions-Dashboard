@@ -92,7 +92,7 @@ Granular view of transaction trends and merchant performance.
 📁 Repository Structure
 
 ```
-├── data/                  # Raw & cleaned datasets (if applicable)
+├── data/                  # Raw & cleaned datasets
 ├── Financial_Transactions_Dashboard.pbix
 ├── screenshots/           # Dashboard preview images
 └── README.md
@@ -103,7 +103,7 @@ Granular view of transaction trends and merchant performance.
 🙋 Author
 
 **[Jiya Thakur]**
-📧 jiyathakurrrr@gmail.com | 🔗 linkedin.com/in/jiya-thakur-6b69a4338
+📧 jiyathakurrrr@gmail.com | 🔗linkedin.com/in/jiya-thakur-6b69a4338
 
 
 ---
