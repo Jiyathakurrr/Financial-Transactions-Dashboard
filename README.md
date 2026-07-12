@@ -83,6 +83,16 @@ Granular view of transaction trends and merchant performance.
 
 ---
 
+📥 Download Power BI Project
+
+The complete Power BI project file (.pbix) can be downloaded from OneDrive:
+
+🔗 Download PBIX File:  
+   https://1drv.ms/u/c/ffc27b40e46d0207/IQDlwahq0FQqRp8UIqTXpRyRAXPp4dlltRkBqgvlXM7NzEA?e=oY3YBB)
+
+
+---
+
  🚀 Key Insights
  
 - Credit cards account for the majority share of revenue across all merchant categories.
