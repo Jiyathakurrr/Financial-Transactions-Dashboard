@@ -76,6 +76,8 @@ Granular view of transaction trends and merchant performance.
 
 🔗 Live Dashboard
 
+    Note: The Power BI project file (.pbix) is not included due to GitHub file size limitations. The interactive dashboard       can be viewed using the Power BI link below.
+
 📌 [View the interactive Power BI report here]
     https://app.powerbi.com/groups/me/reports/7f1972ba-557e-43c6-a6b0-b55ba0606bb4/af5bbe49f832179a5ba9?experience=power-bi
 
