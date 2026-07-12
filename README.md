@@ -94,10 +94,12 @@ The complete Power BI project file (.pbix) can be downloaded from OneDrive:
 ---
 
  🚀 Key Insights
- 
-- Credit cards account for the majority share of revenue across all merchant categories.
-- Revenue peaks in specific age groups, highlighting key customer segments for targeted engagement.
-- Seasonal trends reveal transaction spikes during particular months, informing marketing strategy.
+
+• Debit cards account for over 62% of all transactions.
+• Mastercard generates the highest total revenue.
+• Grocery Stores & Supermarkets contribute the highest merchant revenue.
+• Customers aged 45–54 generate the most revenue.
+• Low-income customers contribute the largest share of revenue.
 
 ---
 
