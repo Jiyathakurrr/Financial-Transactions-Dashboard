@@ -32,6 +32,18 @@ This project transforms raw transaction-level data into a multi-page executive a
 
 ---
 
+## Key Features
+
+- Multi-page interactive dashboard
+- Executive KPI overview
+- Customer segmentation analysis
+- Transaction trend analysis
+- Interactive slicers and navigation buttons
+- DAX measures and Power Query transformations
+- Drill-through and cross-filtering
+
+---
+
 🗂️ Dashboard Pages
 
 1️⃣ Executive Dashboard
