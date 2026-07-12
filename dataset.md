@@ -105,7 +105,7 @@ Some of the key DAX measures used include:
 ## Dataset Source
 
 **Source:** Financial Transactions Dataset (Kaggle)
-  Link: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?utm_source=chatgpt.com
+ Link: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
 
 Due to GitHub's file size limitations and dataset licensing, the original dataset is **not included** in this repository.
 
